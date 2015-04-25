@@ -1,22 +1,45 @@
 .l-header {
   background-color: $color-mahogany;
-  min-height: unit(400);
   margin-bottom: unit(36);
 }
 
+.l-header__banner {
+  @include column(12);
+}
+
+.l-header__logotype-container {
+  display: block;
+  margin-top: unit(46);
+
+  @include respond-to($mq-m) {
+    margin-top: unit(120);
+    font-size: unit(104);
+  }
+}
+
 .l-header__logotype {
-  font-size: unit(104);
+  font-size: unit(42);
   line-height: 1;
-  font-weight: 300;
+  font-weight: 400;
   color: $color-concrete;
-  margin-top: unit(120);
-  margin-bottom: 0;
+  margin-bottom: unit(16);
+  display: inline-block;
+  margin-left: -0.8%;
+
+  @include respond-to($mq-m) {
+    font-size: unit(104);
+  }
 }
 
 
 .l-header__tagline {
-  font-size: unit(42);
   font-weight: 300;
   color: $color-concrete;
-  padding-left: unit(10);
+  max-width: unit(780);
+  margin-bottom: unit(36);
+
+  @include respond-to($mq-m) {
+    font-size: unit(22);
+    margin-bottom: unit(100);
+  }
 }
