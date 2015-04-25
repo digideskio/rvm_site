@@ -3,7 +3,7 @@
 ---
 @charset "utf-8";
 
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800);
 
 @import 'settings';
 
@@ -11,14 +11,21 @@
 @import 'lib/grid';
 @import 'lib/unit';
 @import 'lib/media_query';
+@import 'lib/unstyled_list';
 
 @import 'helpers/visibility_hidden';
 
+@import 'base/type';
+@import 'base/links';
+
 @import 'layout/wrapper';
 @import 'layout/home';
+@import 'layout/article';
+@import 'layout/header';
 @import 'layout/footer';
 
-@import 'base/type';
+@import 'components/logo';
+@import 'components/nav';
 
 @import 'legacy/base';
 @import 'legacy/layout';
