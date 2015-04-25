@@ -1,6 +1,7 @@
 ---
 layout: default
 title: RVM Best Practices
+permalink: /rvm/best-practices/
 ---
 
 RVM Best Practices

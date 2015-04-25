@@ -1,6 +1,7 @@
 ---
 layout: default
 title: RVM Basics
+permalink: /rvm/basics/
 ---
 
 The Basics of RVM

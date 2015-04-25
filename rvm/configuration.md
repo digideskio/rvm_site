@@ -1,9 +1,10 @@
 ---
 layout: default
 title: RVM Configuration
+permalink: /rvm/configuration/
 ---
 
-### RVM Configuration
+# RVM Configuration
 
 RVM has a configuration directory located in $rvm_config_path which for a
 typical installation as user to their $HOME directory will be located in

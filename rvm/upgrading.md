@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Upgrading RVM
+permalink: /rvm/upgrading/
 ---
 
 # Upgrading RVM

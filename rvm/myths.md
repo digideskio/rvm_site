@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Myths about RVM
+permalink: /rvm/myths/
 ---
 
-### Myths
+# Myths
 
 Whilst RVM stands for 'Ruby enVironment Manager', a lot of people seem unclear
 about the range of things you can use RVM for, and how well it fits into the

@@ -1,9 +1,10 @@
 ---
 layout: default
 title: 'rvm info - information about rvm environments'
+permalink: /rvm/info/
 ---
 
-### RVM Info
+# RVM Info
 
 ### Usage
 

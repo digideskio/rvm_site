@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Synopsis
+permalink: /rvm/autolibs/
 ---
 
 # Synopsis

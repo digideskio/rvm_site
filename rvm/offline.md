@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Offline RVM
+permalink: /rvm/offline/
 ---
 
 # RVM in offline mode

@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Installing RVM
+permalink: /rvm/install/
 ---
 
 # Installing RVM

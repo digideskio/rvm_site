@@ -1,9 +1,10 @@
 ---
 layout: default
 title: RVM Prerequisites
+permalink: /rvm/prerequisites/
 ---
 
-### RVM Prerequisites
+# RVM Prerequisites
 
 Most of the requirements below are met by standard Linux distributions.
 

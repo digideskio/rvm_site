@@ -1,6 +1,7 @@
 ---
 layout: default
 title: RVM CLI
+permalink: /rvm/cli/
 ---
 
 # RVM CLI Usage
