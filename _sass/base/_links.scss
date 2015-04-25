@@ -1,0 +1,13 @@
+a {
+  &:link,
+  &:visited {
+    text-decoration: none;
+    color: $color-baltic-sea;
+  }
+
+  &:focus,
+  &:hover {
+    text-decoration: underline;
+    color: $color-mahogany;
+  }
+}

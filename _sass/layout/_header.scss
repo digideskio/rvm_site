@@ -1,0 +1,22 @@
+.l-header {
+  background-color: $color-mahogany;
+  min-height: unit(400);
+  margin-bottom: unit(36);
+}
+
+.l-header__logotype {
+  font-size: unit(104);
+  line-height: 1;
+  font-weight: 300;
+  color: $color-concrete;
+  margin-top: unit(120);
+  margin-bottom: 0;
+}
+
+
+.l-header__tagline {
+  font-size: unit(42);
+  font-weight: 300;
+  color: $color-concrete;
+  padding-left: unit(10);
+}

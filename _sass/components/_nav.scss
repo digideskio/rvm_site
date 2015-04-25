@@ -1,0 +1,21 @@
+.nav {
+  @include column(12);
+
+  @include respond-to($mq-m) {
+    @include column(3);
+    @include push(2);
+  }
+}
+
+.nav__list {
+  @extend %unstyled-list;
+}
+
+.nav__list-item {
+  display: block;
+}
+
+.nav__link {
+  display: block;
+  padding: unit(6);
+}
