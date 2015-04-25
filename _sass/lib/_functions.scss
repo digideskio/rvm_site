@@ -1,0 +1,21 @@
+@function unit($number) {
+  @return ($number) / 16 + rem;
+}
+
+@mixin respond-to($min-width, $max-width: false) {
+  @media screen and (min-width: $min-width) {
+    @if $max-width {
+      @media (max-width: $max-width) {
+        @content
+      }
+    } @else {
+      @content;
+    }
+  }
+}
+
+$mq-xs: 0;
+$mq-s: unit(480);
+$mq-m: unit(720);
+$mq-l: unit(960);
+$mq-xl: unit(1200);
