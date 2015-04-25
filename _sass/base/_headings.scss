@@ -7,6 +7,10 @@ h1, h2, h3, h4, h5, h6 {
 
 h2, h3, h4, h5, h6 {
   article & {
+    margin-top: unit(12);
+  }
+
+  article p + & {
     margin-top: unit(36);
   }
 }
