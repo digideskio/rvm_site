@@ -1,5 +1,6 @@
 .l-article {
   @include column(12);
+  margin-bottom: unit(36);
 
   @include respond-to($mq-m) {
     @include column(8);
