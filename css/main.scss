@@ -16,6 +16,7 @@
 @import 'helpers/visibility_hidden';
 
 @import 'base/type';
+@import 'base/headings';
 @import 'base/links';
 
 @import 'layout/wrapper';
@@ -26,6 +27,7 @@
 
 @import 'components/logo';
 @import 'components/nav';
+@import 'components/skip_link';
 
 @import 'legacy/base';
 @import 'legacy/layout';
