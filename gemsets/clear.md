@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'rvm gemset clear' - Clear any currently selected gemset.
+title: "'rvm gemset clear' - Clear any currently selected gemset."
 permalink: /gemsets/clear/
 ---
 
@@ -13,7 +13,8 @@ $ rvm gemset use teddy
 Now using gemset 'teddy'
 ```
 
-And that you now wish to switch back to using the default gems directory for the currently selected ruby.
+And that you now wish to switch back to using the default gems directory for the
+currently selected ruby.
 
 You can accomplish this using gemset clear:
 

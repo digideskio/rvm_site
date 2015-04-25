@@ -61,10 +61,10 @@ likely to get the full attention of the community.
 
 So, in order to fit in, the first step is to listen to what's currently going
 on. Are they arguing about something? Wait a few minutes (for interactive
-  forums like chat; longer for mailing lists) and see if it dies down a bit.
-  Meanwhile, take note of what language they're speaking; what dialect of it,
-  if any; whether they use proper spelling and punctuation and grammar, or
-  whether shortcuts, abbreviations, or replaced text are the norm; and so on.
+forums like chat; longer for mailing lists) and see if it dies down a bit.
+Meanwhile, take note of what language they're speaking; what dialect of it,
+if any; whether they use proper spelling and punctuation and grammar, or
+whether shortcuts, abbreviations, or replaced text are the norm; and so on.
 
 If a community is speaking English, you should speak English, to the best of
 your ability. If they're speaking French, you should speak French. If they tend
@@ -144,10 +144,10 @@ handle correctlyapply to irreversible medical procedures, etc.)
 
 Nobody wants to waste time helping someone who's a burden. Of course, the line
 between "burden" and "novice" is subjective, and different communities (and
-  often different people within a single community) will draw that line
-  differently. Listening to other people's questions for a while before you ask
-  yours would be one excellent way to get a feel for how much of the work you're
-  expected to do on your own (see the first section above).
+often different people within a single community) will draw that line
+differently. Listening to other people's questions for a while before you ask
+yours would be one excellent way to get a feel for how much of the work you're
+expected to do on your own (see the first section above).
 
 Always do the best you can on your own. If you're intentionally being lazy,
 using the community as a substitute for reading a manual you know you are
@@ -184,7 +184,7 @@ it's a car problem, tell what make and model and year the car is.
 If you're looking for help with code, be sure you show the actual code you're
 using. Don't retype the code into the software you're using, because you might
 accidentally mistype it. Always paste it verbatim. (But be sure to respect your
-  community's guidelines regarding large messages.)
+community's guidelines regarding large messages.)
 
 ### Those are people, not robots
 
@@ -214,7 +214,7 @@ client to the IRC server, which then repeats the message, sending it out to
 every person (client) connected to the same channel. As such, messages are lines
 of text, limited in length (usually about 200 to 250 characters). They are
 sometimes stripped of color and other markup (but sometimes not, depending on
-  the channel).
+the channel).
 
 "Chatting" using this software is near-instantaneous; messages sent by one
 client are seen by other clients very quickly (in less than one second,
@@ -248,8 +248,8 @@ If you don't have a good technical understanding of how IRC works, you should
 definitely avoid clients or scripts that look like they were written by
 "hackers" (the bad kind). Anything with AlTeRnAtInG CaPiTaL LeTtErS, for
 example, should send you away screaming. (This is not to say that such programs
-  have no place; just that, if you're reading this document, you probably don't
-  want to be in those places.)
+have no place; just that, if you're reading this document, you probably don't
+want to be in those places.)
 
 Take the time to read your clums, where your messages may not be seen by other
 people for hours.
@@ -289,8 +289,8 @@ It's irritating when people ask "Is anyone here?" or "Can I ask a question
 about _ _ _?" If you have a question, and you've followed the advice above, then
 just go ahead and ask it. If nobody answers, then wait a while. If the channel
 doesn't want to entertain questions about whatever you asked about, they'll tell
-you (and often they'll suggest a place where you can ask such things).
-  ent's documentation, as suggested above.
+you (and often they'll suggest a place where you can ask such things). ent's
+documentation, as suggested above.
 
 If your channel has a FAQ (Frequently Asked Questions), be sure to read it
 before an" is usually followed by a barrage of private messages from the asker.
@@ -312,10 +312,10 @@ answer could instead be asked in the channel, where everyone will benefit from
 it.
 
 This applies most strongly to private messages (sent with the /msg command or
-  its equivalent, depending on your client), but it also applies, to a lesser
-  degree, to questions that are asked in the channel, with one person's name on
-  the front of them. "Demanding" a response from one particular member of a
-  community is not likely to be received well.
+its equivalent, depending on your client), but it also applies, to a lesser
+degree, to questions that are asked in the channel, with one person's name on
+the front of them. "Demanding" a response from one particular member of a
+community is not likely to be received well.
 
 ### ... unless it's a chatbot
 
@@ -366,7 +366,7 @@ ask.)
 
 This is especially important in busy channels. You should, if at all possible,
 compose your question so that it fits into a single IRC line (200 to 250 bytes
-  or so). That way, people will see the whole question at once.
+or so). That way, people will see the whole question at once.
 
 Many people who answer questions in IRC only glance at the screen from time to
 time, checking for a new question that they can answer. If you break your
