@@ -1,0 +1,13 @@
+.l-footer {
+  clear: both;
+  border-top: 1px solid $color-concrete;
+  padding: unit(36) 0;
+  margin-top: unit(36);
+  color: $color-baltic-sea;
+  min-height: unit(120);
+}
+
+.l-footer__copyright {
+  @include column(12);
+  font-size: unit(14);
+}
