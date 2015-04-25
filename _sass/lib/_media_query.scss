@@ -1,7 +1,3 @@
-@function unit($number) {
-  @return ($number) / 16 + rem;
-}
-
 @mixin respond-to($min-width, $max-width: false) {
   @media screen and (min-width: $min-width) {
     @if $max-width {
