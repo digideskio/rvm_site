@@ -21,5 +21,9 @@
 
 .nav__link {
   display: block;
-  padding: unit(6);
+  padding: unit(6) 0;
+}
+
+.nav__heading {
+  font-size: unit(20);
 }
