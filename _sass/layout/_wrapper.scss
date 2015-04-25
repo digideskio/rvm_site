@@ -1,4 +1,5 @@
 .wrapper {
+  @include clearfix();
   max-width: unit(1200);
   margin: 0 auto;
 }
