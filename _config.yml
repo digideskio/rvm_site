@@ -1,14 +1,11 @@
-# Site settings
 title: RVM
-email: your-email@domain.com
+email: mpapis@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/rvm_site/" # the subpath of your site, e.g. /blog/
+  Documentation for the Ruby Version Manager (RVM).
+baseurl: "/rvm_site"
 url: "/" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: @rvm_io
+github_username:  rvm
 
 # Build settings
 markdown: redcarpet
