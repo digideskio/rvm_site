@@ -8,7 +8,7 @@
 }
 
 .l-header__logotype-container {
-  display: block;
+  display: inline-block;
   margin-top: unit(46);
 
   @include respond-to($mq-m) {

@@ -24,3 +24,16 @@ code {
   border-radius: 3px;
   background-color: $color-off-grey;
 }
+
+ul,
+ol {
+  padding-left: 0;
+  margin-bottom: unit(24);
+}
+
+li {
+  & > pre,
+  & > code {
+    line-height: 2;
+  }
+}
