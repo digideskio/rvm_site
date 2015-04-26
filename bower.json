@@ -1,0 +1,20 @@
+{
+  "name": "RVM Documentation Website",
+  "version": "0.0.0",
+  "homepage": "https://www.rvm.io",
+  "authors": [
+    "awilliams261@gmail.com"
+  ],
+  "description": "Documentation website for the Ruby Version Manager (RVM)",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "~3.0.3"
+  }
+}
