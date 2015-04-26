@@ -4,7 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Documentation for the Ruby Version Manager (RVM).
 baseurl: "/rvm_site"
 url: "/" # the base hostname & protocol for your site
-twitter_username: @rvm_io
+twitter_username: rvm_io
 github_username:  rvm
 
 # Build settings
