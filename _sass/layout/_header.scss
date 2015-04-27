@@ -5,6 +5,10 @@
 
 .l-header__banner {
   @include column(12);
+
+  @include respond-to($mq-m) {
+    padding-bottom: unit(100);
+  }
 }
 
 .l-header__logotype-container {
@@ -12,8 +16,8 @@
   margin-top: unit(46);
 
   @include respond-to($mq-m) {
-    margin-top: unit(120);
     font-size: unit(104);
+    margin-top: unit(100);
   }
 }
 
@@ -40,6 +44,5 @@
 
   @include respond-to($mq-m) {
     font-size: unit(22);
-    margin-bottom: unit(100);
   }
 }

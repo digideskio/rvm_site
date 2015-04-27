@@ -1,0 +1,13 @@
+.button {
+  @extend %unstyled-button;
+  padding: unit(12) unit(36);
+  border-radius: unit(3);
+  border: 1px solid $color-concrete;
+  color: $color-concrete;
+  font-size: unit(24);
+
+  &:hover,
+  &:focus {
+    background-color: darken($color-mahogany, 10%);
+  }
+}
